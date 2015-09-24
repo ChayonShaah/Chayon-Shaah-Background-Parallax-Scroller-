@@ -1,6 +1,6 @@
 # Chayon-Shaah-Background-Parallax-Scroller-
 
-   Plugin Name: Chayon-Shaah-Background-Parallax-Scroller
+   <h1>Plugin Name: Chayon-Shaah-Background-Parallax-Scroller</h1>
    Plugin Author: Chayon Shaah
    Plugin Verson:1.0
    Website : http://chayonshaah.com
