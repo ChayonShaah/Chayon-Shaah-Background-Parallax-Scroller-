@@ -1,13 +1,13 @@
 # Chayon-Shaah-Background-Parallax-Scroller-
 
-   <h1>Plugin Name: Chayon-Shaah-Background-Parallax-Scroller</h1>
-   Plugin Author: Chayon Shaah
-   Plugin Verson:1.0
-   Website : http://chayonshaah.com
-   Description: This is a nice lightweight fixed background parallax scroller jquery plugin , developed by Chayon Shaah                   Mymensingh , Bangladesh.
-   
+  <p style="color:red"> Plugin Name: Chayon-Shaah-Background-Parallax-Scroller </p>
+  <p> Plugin Author: Chayon Shaah </p>
+   <p> Plugin Verson:1.0 </p>
+   <p> Website : http://chayonshaah.com </p>
+   <p> Description: This is a nice lightweight fixed background parallax scroller jquery plugin , developed by Chayon        Shaah Mymensingh , Bangladesh.</p>
+ <p>  
 Usage : Download the Parallax.js plugin file and keep it in your js directory . Call it in your HTML page after   jquery. Create a section and set a background image (No need to apply any attachment style for background). Then call the section name as a selector in parallax() function . As like given below . You can use a class or id of the section and use that class name or id as selector . That's it.         
-        
+        </p>
            
 		   $('selector').parallax('selector')
 		   
